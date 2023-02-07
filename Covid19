@@ -1,7 +1,5 @@
-/**
- * Covid19 Class
- * Track covid19 recovery
- * */
+// The class is used to track the recovery of COVID-19 patients in different areas and the country as a whole.
+
 public class Covid19 {
     private Integer recoveredInArea = 0;
     public static Integer recoveredInCountry = 0;
